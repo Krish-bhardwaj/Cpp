@@ -1,8 +1,19 @@
-#include<iostream>
-using namespace std ;
+#include <iostream>
+using namespace std;
 int main()
 {
-    cout << "hello world";
+    int i = -5;
+    while (i <= 5)
+    {
+        if (i >= 0)
+            break;
+        else
+        {
+            i++;
+            continue;
+        }
+        cout << "GeeksCourse `n";
+    }
+    
     return 0;
-    system("pause>0");
 }
