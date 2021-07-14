@@ -22,7 +22,7 @@ void findJumps(int N, int X){
     cout<< min(eq(X), (N/2+1)-eq(X)-1)<<endl;        
 }
 
-// { Driver Code Starts.
+// { Driver Code Starts. --v
 
 int main(){
     
