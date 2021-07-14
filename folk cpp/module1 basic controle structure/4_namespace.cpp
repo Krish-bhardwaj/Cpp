@@ -73,7 +73,6 @@ namespace ns
 
 int main()
 {
-    // Creating Object of geek Class
     ns::geek obj;
 
     obj.display();
