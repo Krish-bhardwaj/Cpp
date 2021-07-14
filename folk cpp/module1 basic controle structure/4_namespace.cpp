@@ -60,6 +60,7 @@ using namespace std;
 
 namespace ns
 {
+    // A Class in a namespace
     class geek
     {
     public:
